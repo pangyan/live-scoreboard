@@ -13,3 +13,7 @@ npm install
 npm run dev
 npm run test
 ```
+
+# References
+- [https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/]
+- [https://github.com/mihailgaberov/scoreboard]

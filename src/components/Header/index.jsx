@@ -2,8 +2,8 @@ import './header.module.scss'
 const Header = () => {
     return (
         <header>
-            <img src='./middle-finger.svg' alt='FIFA World Cup Scoreboard'/>
-            <h2>FIFA World Cup Scoreboard</h2>
+            <img src='./middle-finger.svg' alt='Ridiculands Sunday League'/>
+            <h2>Ridiculands Sunday League</h2>
         </header>
     );
 };
